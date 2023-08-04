@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title('Hey guys I hear you in the TwitterSpace but I'm recording a tutorial so we'll talk soon ')
+st.title('Hey guys I hear you in the TwitterSpace but Im recording a tutorial so well talk soon ')
